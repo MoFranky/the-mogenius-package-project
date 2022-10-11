@@ -3,8 +3,6 @@ FROM node:alpine3.16
 # Inject the environment variable with our github personal access token
 ARG GITHUB_TOKEN
 
-ENV CI true
-
 # Add git to our alpine image so semantic-release can execute git push
 RUN apk add git
 
