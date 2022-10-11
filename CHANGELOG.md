@@ -2,6 +2,13 @@
 
 
 
+## 1.0.1 (2022-10-11)
+
+
+### Bug Fixes
+
+* final bug fixes. ([7cf86a4](https://github.com/MoFranky/the-mogenius-package-project/commit/7cf86a49dc74038b007d7cc4c07a0c5eefa1af98))
+
 # 1.0.0 (2022-10-11)
 
 
