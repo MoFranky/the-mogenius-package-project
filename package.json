@@ -1,0 +1,29 @@
+{
+  "name": "the-mogenius-package-project",
+  "version": "1.0.0",
+  "description": "Deploying a package to mogenius, to build it and add it back to Github packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoFranky/the-mogenius-package-project.git"
+  },
+  "keywords": [
+    "tutorial",
+    "mogenius"
+  ],
+  "author": "Daniel Franken",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MoFranky/the-mogenius-package-project/issues"
+  },
+  "homepage": "https://github.com/MoFranky/the-mogenius-package-project#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "semantic-release": "^19.0.5"
+  }
+}
