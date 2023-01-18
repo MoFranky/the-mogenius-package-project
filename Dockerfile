@@ -1,7 +1,7 @@
 FROM node:alpine3.16
 
 # Inject the environment variable with our github personal access token
-ARG GITHUB_TOKEN
+ARG NODE_AUTH_TOKEN
 
 # Setting the Environement to CI so it doesn't run in dry mode.
 ENV CI true
